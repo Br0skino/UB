@@ -2,8 +2,8 @@
 """
 Edit This
 """
-apiId = 993290
-apiHash = "xtpcehdqg9fxnutlkmjut1abewezf5yc"
+apiId =  1094844
+apiHash = "a528bed1ede162326940b87ece6a0126"
 
 # These are NOT valid apiId and apiHash but they are in the correct format.
 # Take your apiId and apiHash from my.telegram.org/
