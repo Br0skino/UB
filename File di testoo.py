@@ -2,7 +2,7 @@
 """
 Edit This
 """
-apiId =  1094844
+apiId = 1094844
 apiHash = "a528bed1ede162326940b87ece6a0126"
 
 # These are NOT valid apiId and apiHash but they are in the correct format.
